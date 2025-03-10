@@ -1,5 +1,7 @@
 # Ex.No.-1.1-Design and Draft the given 2D Sketches in modelling software.
 
+Name-Dhanussh Elango
+Reg no-24006290
 ## AIM
 
 To sketch the given drawing with dimensions using fusion 360 tool.
@@ -42,6 +44,9 @@ To sketch the given drawing with dimensions using fusion 360 tool.
 ![image](https://user-images.githubusercontent.com/113594316/198208087-87ed794e-5f1c-4583-82e0-f29699dfc305.png)
 
 ## OUTPUT
+![Screenshot (50)](https://github.com/user-attachments/assets/82aa058f-15a0-4e49-bf5d-4952973117c6)
+[ex 1.1.pdf](https://github.com/user-attachments/files/19156197/ex.1.1.pdf)
+
 
 
 ## RESULT
